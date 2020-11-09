@@ -27,11 +27,8 @@ A dataframe with 1260 elements
 Homicide
 }
 \description{
-This package contains specifications for discs approved by
-the Professional Disc Golf Association
+This package contains information on homicides in the U.S.
 
-A data set containing golf discs approved by
-the Professional Disc Golf Association
-as of October, 2020
+A data set containing Homicide data
 }
 \keyword{datasets}

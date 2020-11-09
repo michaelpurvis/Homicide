@@ -1,7 +1,6 @@
 #' Homicide Info
 #'
-#' This package contains specifications for discs approved by
-#' the Professional Disc Golf Association
+#' This package contains information on homicides in the U.S.
 #' @docType package
 #' @name Homicide
 #' @aliases Homicide Homicide-package
@@ -9,9 +8,7 @@ NULL
 
 #' "Homicide"
 #'
-#' A data set containing golf discs approved by
-#' the Professional Disc Golf Association
-#' as of October, 2020
+#' A data set containing Homicide data
 #'
 #' @source \url{https://www.pdga.com/introduction}
 #' @format A dataframe with 1260 elements
