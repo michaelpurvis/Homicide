@@ -11,7 +11,7 @@ NULL
 #' A data set containing Homicide data
 #'
 #' @source \url{https://www.pdga.com/introduction}
-#' @format A dataframe with 1260 elements
+#' @format A dataframe with 52179 elements
 #' \describe{
 #'   \item{city}{city of Homicide}
 #'   \item{disposition}{current status of case}
