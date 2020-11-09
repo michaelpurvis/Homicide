@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+![R-CMD-check](https://github.com/michaelpurvis/Homicide/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of Homicide is to show data on Homicides across the U.S.
